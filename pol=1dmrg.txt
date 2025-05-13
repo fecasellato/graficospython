@@ -1,0 +1,1401 @@
+#up 1 1 1
+#dns 1 1 0
+#updn 1 1 0
+LessUpDn 1 1
+#Ntot_per_site 1 1 1
+flutacao_carga 1 1 -4 0 0.002 0
+#sz 1 1 0.5
+flutacao_spin 1 1 -4 0 0.002 0
+Density_Single 1 1 -4 0 0.002 0
+w2_per_site 1 1 -4 0 0.002 0
+wp1_per_site 1 1 -4 0 0.002 1
+wl1_per_site 1 1 -4 0 0.002 0
+w0_per_site 1 1 -4 0 0.002 0
+svNsingle 1 1 -4 0 0.002 0
+#up 2 1 1
+#dns 2 1 0
+#updn 2 1 0
+LessUpDn 2 1
+#Ntot_per_site 2 1 1
+flutacao_carga 2 1 -4 0 0.002 0
+#sz 2 1 0.5
+flutacao_spin 2 1 -4 0 0.002 0
+Density_Single 2 1 -4 0 0.002 0
+w2_per_site 2 1 -4 0 0.002 0
+wp1_per_site 2 1 -4 0 0.002 1
+wl1_per_site 2 1 -4 0 0.002 0
+w0_per_site 2 1 -4 0 0.002 0
+svNsingle 2 1 -4 0 0.002 0
+#up 3 1 1
+#dns 3 1 0
+#updn 3 1 0
+LessUpDn 3 1
+#Ntot_per_site 3 1 1
+flutacao_carga 3 1 -4 0 0.002 0
+#sz 3 1 0.5
+flutacao_spin 3 1 -4 0 0.002 0
+Density_Single 3 1 -4 0 0.002 0
+w2_per_site 3 1 -4 0 0.002 0
+wp1_per_site 3 1 -4 0 0.002 1
+wl1_per_site 3 1 -4 0 0.002 0
+w0_per_site 3 1 -4 0 0.002 0
+svNsingle 3 1 -4 0 0.002 0
+#up 4 1 1
+#dns 4 1 0
+#updn 4 1 0
+LessUpDn 4 1
+#Ntot_per_site 4 1 1
+flutacao_carga 4 1 -4 0 0.002 0
+#sz 4 1 0.5
+flutacao_spin 4 1 -4 0 0.002 0
+Density_Single 4 1 -4 0 0.002 0
+w2_per_site 4 1 -4 0 0.002 0
+wp1_per_site 4 1 -4 0 0.002 1
+wl1_per_site 4 1 -4 0 0.002 0
+w0_per_site 4 1 -4 0 0.002 0
+svNsingle 4 1 -4 0 0.002 0
+#up 5 1 1
+#dns 5 1 0
+#updn 5 1 0
+LessUpDn 5 1
+#Ntot_per_site 5 1 1
+flutacao_carga 5 1 -4 0 0.002 0
+#sz 5 1 0.5
+flutacao_spin 5 1 -4 0 0.002 0
+Density_Single 5 1 -4 0 0.002 0
+w2_per_site 5 1 -4 0 0.002 0
+wp1_per_site 5 1 -4 0 0.002 1
+wl1_per_site 5 1 -4 0 0.002 0
+w0_per_site 5 1 -4 0 0.002 0
+svNsingle 5 1 -4 0 0.002 0
+#up 6 1 1
+#dns 6 1 0
+#updn 6 1 0
+LessUpDn 6 1
+#Ntot_per_site 6 1 1
+flutacao_carga 6 1 -4 0 0.002 0
+#sz 6 1 0.5
+flutacao_spin 6 1 -4 0 0.002 0
+Density_Single 6 1 -4 0 0.002 0
+w2_per_site 6 1 -4 0 0.002 0
+wp1_per_site 6 1 -4 0 0.002 1
+wl1_per_site 6 1 -4 0 0.002 0
+w0_per_site 6 1 -4 0 0.002 0
+svNsingle 6 1 -4 0 0.002 0
+#up 7 1 1
+#dns 7 1 0
+#updn 7 1 0
+LessUpDn 7 1
+#Ntot_per_site 7 1 1
+flutacao_carga 7 1 -4 0 0.002 0
+#sz 7 1 0.5
+flutacao_spin 7 1 -4 0 0.002 0
+Density_Single 7 1 -4 0 0.002 0
+w2_per_site 7 1 -4 0 0.002 0
+wp1_per_site 7 1 -4 0 0.002 1
+wl1_per_site 7 1 -4 0 0.002 0
+w0_per_site 7 1 -4 0 0.002 0
+svNsingle 7 1 -4 0 0.002 0
+#up 8 1 1
+#dns 8 1 0
+#updn 8 1 0
+LessUpDn 8 1
+#Ntot_per_site 8 1 1
+flutacao_carga 8 1 -4 0 0.002 0
+#sz 8 1 0.5
+flutacao_spin 8 1 -4 0 0.002 0
+Density_Single 8 1 -4 0 0.002 0
+w2_per_site 8 1 -4 0 0.002 0
+wp1_per_site 8 1 -4 0 0.002 1
+wl1_per_site 8 1 -4 0 0.002 0
+w0_per_site 8 1 -4 0 0.002 0
+svNsingle 8 1 -4 0 0.002 0
+#up 9 1 1
+#dns 9 1 0
+#updn 9 1 0
+LessUpDn 9 1
+#Ntot_per_site 9 1 1
+flutacao_carga 9 1 -4 0 0.002 0
+#sz 9 1 0.5
+flutacao_spin 9 1 -4 0 0.002 0
+Density_Single 9 1 -4 0 0.002 0
+w2_per_site 9 1 -4 0 0.002 0
+wp1_per_site 9 1 -4 0 0.002 1
+wl1_per_site 9 1 -4 0 0.002 0
+w0_per_site 9 1 -4 0 0.002 0
+svNsingle 9 1 -4 0 0.002 0
+#up 10 1 1
+#dns 10 1 0
+#updn 10 1 0
+LessUpDn 10 1
+#Ntot_per_site 10 1 1
+flutacao_carga 10 1 -4 0 0.002 0
+#sz 10 1 0.5
+flutacao_spin 10 1 -4 0 0.002 0
+Density_Single 10 1 -4 0 0.002 0
+w2_per_site 10 1 -4 0 0.002 0
+wp1_per_site 10 1 -4 0 0.002 1
+wl1_per_site 10 1 -4 0 0.002 0
+w0_per_site 10 1 -4 0 0.002 0
+svNsingle 10 1 -4 0 0.002 0
+#up 11 1 1
+#dns 11 1 0
+#updn 11 1 0
+LessUpDn 11 1
+#Ntot_per_site 11 1 1
+flutacao_carga 11 1 -4 0 0.002 0
+#sz 11 1 0.5
+flutacao_spin 11 1 -4 0 0.002 0
+Density_Single 11 1 -4 0 0.002 0
+w2_per_site 11 1 -4 0 0.002 0
+wp1_per_site 11 1 -4 0 0.002 1
+wl1_per_site 11 1 -4 0 0.002 0
+w0_per_site 11 1 -4 0 0.002 0
+svNsingle 11 1 -4 0 0.002 0
+#up 12 1 1
+#dns 12 1 0
+#updn 12 1 0
+LessUpDn 12 1
+#Ntot_per_site 12 1 1
+flutacao_carga 12 1 -4 0 0.002 0
+#sz 12 1 0.5
+flutacao_spin 12 1 -4 0 0.002 0
+Density_Single 12 1 -4 0 0.002 0
+w2_per_site 12 1 -4 0 0.002 0
+wp1_per_site 12 1 -4 0 0.002 1
+wl1_per_site 12 1 -4 0 0.002 0
+w0_per_site 12 1 -4 0 0.002 0
+svNsingle 12 1 -4 0 0.002 0
+#up 13 1 1
+#dns 13 1 0
+#updn 13 1 0
+LessUpDn 13 1
+#Ntot_per_site 13 1 1
+flutacao_carga 13 1 -4 0 0.002 0
+#sz 13 1 0.5
+flutacao_spin 13 1 -4 0 0.002 0
+Density_Single 13 1 -4 0 0.002 0
+w2_per_site 13 1 -4 0 0.002 0
+wp1_per_site 13 1 -4 0 0.002 1
+wl1_per_site 13 1 -4 0 0.002 0
+w0_per_site 13 1 -4 0 0.002 0
+svNsingle 13 1 -4 0 0.002 0
+#up 14 1 1
+#dns 14 1 0
+#updn 14 1 0
+LessUpDn 14 1
+#Ntot_per_site 14 1 1
+flutacao_carga 14 1 -4 0 0.002 0
+#sz 14 1 0.5
+flutacao_spin 14 1 -4 0 0.002 0
+Density_Single 14 1 -4 0 0.002 0
+w2_per_site 14 1 -4 0 0.002 0
+wp1_per_site 14 1 -4 0 0.002 1
+wl1_per_site 14 1 -4 0 0.002 0
+w0_per_site 14 1 -4 0 0.002 0
+svNsingle 14 1 -4 0 0.002 0
+#up 15 1 1
+#dns 15 1 0
+#updn 15 1 0
+LessUpDn 15 1
+#Ntot_per_site 15 1 1
+flutacao_carga 15 1 -4 0 0.002 0
+#sz 15 1 0.5
+flutacao_spin 15 1 -4 0 0.002 0
+Density_Single 15 1 -4 0 0.002 0
+w2_per_site 15 1 -4 0 0.002 0
+wp1_per_site 15 1 -4 0 0.002 1
+wl1_per_site 15 1 -4 0 0.002 0
+w0_per_site 15 1 -4 0 0.002 0
+svNsingle 15 1 -4 0 0.002 0
+#up 16 1 1
+#dns 16 1 0
+#updn 16 1 0
+LessUpDn 16 1
+#Ntot_per_site 16 1 1
+flutacao_carga 16 1 -4 0 0.002 0
+#sz 16 1 0.5
+flutacao_spin 16 1 -4 0 0.002 0
+Density_Single 16 1 -4 0 0.002 0
+w2_per_site 16 1 -4 0 0.002 0
+wp1_per_site 16 1 -4 0 0.002 1
+wl1_per_site 16 1 -4 0 0.002 0
+w0_per_site 16 1 -4 0 0.002 0
+svNsingle 16 1 -4 0 0.002 0
+#up 17 1 1
+#dns 17 1 0
+#updn 17 1 0
+LessUpDn 17 1
+#Ntot_per_site 17 1 1
+flutacao_carga 17 1 -4 0 0.002 0
+#sz 17 1 0.5
+flutacao_spin 17 1 -4 0 0.002 0
+Density_Single 17 1 -4 0 0.002 0
+w2_per_site 17 1 -4 0 0.002 0
+wp1_per_site 17 1 -4 0 0.002 1
+wl1_per_site 17 1 -4 0 0.002 0
+w0_per_site 17 1 -4 0 0.002 0
+svNsingle 17 1 -4 0 0.002 0
+#up 18 1 1
+#dns 18 1 0
+#updn 18 1 0
+LessUpDn 18 1
+#Ntot_per_site 18 1 1
+flutacao_carga 18 1 -4 0 0.002 0
+#sz 18 1 0.5
+flutacao_spin 18 1 -4 0 0.002 0
+Density_Single 18 1 -4 0 0.002 0
+w2_per_site 18 1 -4 0 0.002 0
+wp1_per_site 18 1 -4 0 0.002 1
+wl1_per_site 18 1 -4 0 0.002 0
+w0_per_site 18 1 -4 0 0.002 0
+svNsingle 18 1 -4 0 0.002 0
+#up 19 1 1
+#dns 19 1 0
+#updn 19 1 0
+LessUpDn 19 1
+#Ntot_per_site 19 1 1
+flutacao_carga 19 1 -4 0 0.002 0
+#sz 19 1 0.5
+flutacao_spin 19 1 -4 0 0.002 0
+Density_Single 19 1 -4 0 0.002 0
+w2_per_site 19 1 -4 0 0.002 0
+wp1_per_site 19 1 -4 0 0.002 1
+wl1_per_site 19 1 -4 0 0.002 0
+w0_per_site 19 1 -4 0 0.002 0
+svNsingle 19 1 -4 0 0.002 0
+#up 20 1 1
+#dns 20 1 0
+#updn 20 1 0
+LessUpDn 20 1
+#Ntot_per_site 20 1 1
+flutacao_carga 20 1 -4 0 0.002 0
+#sz 20 1 0.5
+flutacao_spin 20 1 -4 0 0.002 0
+Density_Single 20 1 -4 0 0.002 0
+w2_per_site 20 1 -4 0 0.002 0
+wp1_per_site 20 1 -4 0 0.002 1
+wl1_per_site 20 1 -4 0 0.002 0
+w0_per_site 20 1 -4 0 0.002 0
+svNsingle 20 1 -4 0 0.002 0
+#up 21 1 1
+#dns 21 1 0
+#updn 21 1 0
+LessUpDn 21 1
+#Ntot_per_site 21 1 1
+flutacao_carga 21 1 -4 0 0.002 0
+#sz 21 1 0.5
+flutacao_spin 21 1 -4 0 0.002 0
+Density_Single 21 1 -4 0 0.002 0
+w2_per_site 21 1 -4 0 0.002 0
+wp1_per_site 21 1 -4 0 0.002 1
+wl1_per_site 21 1 -4 0 0.002 0
+w0_per_site 21 1 -4 0 0.002 0
+svNsingle 21 1 -4 0 0.002 0
+#up 22 1 1
+#dns 22 1 0
+#updn 22 1 0
+LessUpDn 22 1
+#Ntot_per_site 22 1 1
+flutacao_carga 22 1 -4 0 0.002 0
+#sz 22 1 0.5
+flutacao_spin 22 1 -4 0 0.002 0
+Density_Single 22 1 -4 0 0.002 0
+w2_per_site 22 1 -4 0 0.002 0
+wp1_per_site 22 1 -4 0 0.002 1
+wl1_per_site 22 1 -4 0 0.002 0
+w0_per_site 22 1 -4 0 0.002 0
+svNsingle 22 1 -4 0 0.002 0
+#up 23 1 1
+#dns 23 1 0
+#updn 23 1 0
+LessUpDn 23 1
+#Ntot_per_site 23 1 1
+flutacao_carga 23 1 -4 0 0.002 0
+#sz 23 1 0.5
+flutacao_spin 23 1 -4 0 0.002 0
+Density_Single 23 1 -4 0 0.002 0
+w2_per_site 23 1 -4 0 0.002 0
+wp1_per_site 23 1 -4 0 0.002 1
+wl1_per_site 23 1 -4 0 0.002 0
+w0_per_site 23 1 -4 0 0.002 0
+svNsingle 23 1 -4 0 0.002 0
+#up 24 1 1
+#dns 24 1 0
+#updn 24 1 0
+LessUpDn 24 1
+#Ntot_per_site 24 1 1
+flutacao_carga 24 1 -4 0 0.002 0
+#sz 24 1 0.5
+flutacao_spin 24 1 -4 0 0.002 0
+Density_Single 24 1 -4 0 0.002 0
+w2_per_site 24 1 -4 0 0.002 0
+wp1_per_site 24 1 -4 0 0.002 1
+wl1_per_site 24 1 -4 0 0.002 0
+w0_per_site 24 1 -4 0 0.002 0
+svNsingle 24 1 -4 0 0.002 0
+#up 25 1 1
+#dns 25 1 0
+#updn 25 1 0
+LessUpDn 25 1
+#Ntot_per_site 25 1 1
+flutacao_carga 25 1 -4 0 0.002 0
+#sz 25 1 0.5
+flutacao_spin 25 1 -4 0 0.002 0
+Density_Single 25 1 -4 0 0.002 0
+w2_per_site 25 1 -4 0 0.002 0
+wp1_per_site 25 1 -4 0 0.002 1
+wl1_per_site 25 1 -4 0 0.002 0
+w0_per_site 25 1 -4 0 0.002 0
+svNsingle 25 1 -4 0 0.002 0
+#up 26 1 1
+#dns 26 1 0
+#updn 26 1 0
+LessUpDn 26 1
+#Ntot_per_site 26 1 1
+flutacao_carga 26 1 -4 0 0.002 0
+#sz 26 1 0.5
+flutacao_spin 26 1 -4 0 0.002 0
+Density_Single 26 1 -4 0 0.002 0
+w2_per_site 26 1 -4 0 0.002 0
+wp1_per_site 26 1 -4 0 0.002 1
+wl1_per_site 26 1 -4 0 0.002 0
+w0_per_site 26 1 -4 0 0.002 0
+svNsingle 26 1 -4 0 0.002 0
+#up 27 1 1
+#dns 27 1 0
+#updn 27 1 0
+LessUpDn 27 1
+#Ntot_per_site 27 1 1
+flutacao_carga 27 1 -4 0 0.002 0
+#sz 27 1 0.5
+flutacao_spin 27 1 -4 0 0.002 0
+Density_Single 27 1 -4 0 0.002 0
+w2_per_site 27 1 -4 0 0.002 0
+wp1_per_site 27 1 -4 0 0.002 1
+wl1_per_site 27 1 -4 0 0.002 0
+w0_per_site 27 1 -4 0 0.002 0
+svNsingle 27 1 -4 0 0.002 0
+#up 28 1 1
+#dns 28 1 0
+#updn 28 1 0
+LessUpDn 28 1
+#Ntot_per_site 28 1 1
+flutacao_carga 28 1 -4 0 0.002 0
+#sz 28 1 0.5
+flutacao_spin 28 1 -4 0 0.002 0
+Density_Single 28 1 -4 0 0.002 0
+w2_per_site 28 1 -4 0 0.002 0
+wp1_per_site 28 1 -4 0 0.002 1
+wl1_per_site 28 1 -4 0 0.002 0
+w0_per_site 28 1 -4 0 0.002 0
+svNsingle 28 1 -4 0 0.002 0
+#up 29 1 1
+#dns 29 1 0
+#updn 29 1 0
+LessUpDn 29 1
+#Ntot_per_site 29 1 1
+flutacao_carga 29 1 -4 0 0.002 0
+#sz 29 1 0.5
+flutacao_spin 29 1 -4 0 0.002 0
+Density_Single 29 1 -4 0 0.002 0
+w2_per_site 29 1 -4 0 0.002 0
+wp1_per_site 29 1 -4 0 0.002 1
+wl1_per_site 29 1 -4 0 0.002 0
+w0_per_site 29 1 -4 0 0.002 0
+svNsingle 29 1 -4 0 0.002 0
+#up 30 1 1
+#dns 30 1 0
+#updn 30 1 0
+LessUpDn 30 1
+#Ntot_per_site 30 1 1
+flutacao_carga 30 1 -4 0 0.002 0
+#sz 30 1 0.5
+flutacao_spin 30 1 -4 0 0.002 0
+Density_Single 30 1 -4 0 0.002 0
+w2_per_site 30 1 -4 0 0.002 0
+wp1_per_site 30 1 -4 0 0.002 1
+wl1_per_site 30 1 -4 0 0.002 0
+w0_per_site 30 1 -4 0 0.002 0
+svNsingle 30 1 -4 0 0.002 0
+#up 31 1 1
+#dns 31 1 0
+#updn 31 1 0
+LessUpDn 31 1
+#Ntot_per_site 31 1 1
+flutacao_carga 31 1 -4 0 0.002 0
+#sz 31 1 0.5
+flutacao_spin 31 1 -4 0 0.002 0
+Density_Single 31 1 -4 0 0.002 0
+w2_per_site 31 1 -4 0 0.002 0
+wp1_per_site 31 1 -4 0 0.002 1
+wl1_per_site 31 1 -4 0 0.002 0
+w0_per_site 31 1 -4 0 0.002 0
+svNsingle 31 1 -4 0 0.002 0
+#up 32 1 1
+#dns 32 1 0
+#updn 32 1 0
+LessUpDn 32 1
+#Ntot_per_site 32 1 1
+flutacao_carga 32 1 -4 0 0.002 0
+#sz 32 1 0.5
+flutacao_spin 32 1 -4 0 0.002 0
+Density_Single 32 1 -4 0 0.002 0
+w2_per_site 32 1 -4 0 0.002 0
+wp1_per_site 32 1 -4 0 0.002 1
+wl1_per_site 32 1 -4 0 0.002 0
+w0_per_site 32 1 -4 0 0.002 0
+svNsingle 32 1 -4 0 0.002 0
+#up 33 1 1
+#dns 33 1 0
+#updn 33 1 0
+LessUpDn 33 1
+#Ntot_per_site 33 1 1
+flutacao_carga 33 1 -4 0 0.002 0
+#sz 33 1 0.5
+flutacao_spin 33 1 -4 0 0.002 0
+Density_Single 33 1 -4 0 0.002 0
+w2_per_site 33 1 -4 0 0.002 0
+wp1_per_site 33 1 -4 0 0.002 1
+wl1_per_site 33 1 -4 0 0.002 0
+w0_per_site 33 1 -4 0 0.002 0
+svNsingle 33 1 -4 0 0.002 0
+#up 34 1 1
+#dns 34 1 0
+#updn 34 1 0
+LessUpDn 34 1
+#Ntot_per_site 34 1 1
+flutacao_carga 34 1 -4 0 0.002 0
+#sz 34 1 0.5
+flutacao_spin 34 1 -4 0 0.002 0
+Density_Single 34 1 -4 0 0.002 0
+w2_per_site 34 1 -4 0 0.002 0
+wp1_per_site 34 1 -4 0 0.002 1
+wl1_per_site 34 1 -4 0 0.002 0
+w0_per_site 34 1 -4 0 0.002 0
+svNsingle 34 1 -4 0 0.002 0
+#up 35 1 1
+#dns 35 1 0
+#updn 35 1 0
+LessUpDn 35 1
+#Ntot_per_site 35 1 1
+flutacao_carga 35 1 -4 0 0.002 0
+#sz 35 1 0.5
+flutacao_spin 35 1 -4 0 0.002 0
+Density_Single 35 1 -4 0 0.002 0
+w2_per_site 35 1 -4 0 0.002 0
+wp1_per_site 35 1 -4 0 0.002 1
+wl1_per_site 35 1 -4 0 0.002 0
+w0_per_site 35 1 -4 0 0.002 0
+svNsingle 35 1 -4 0 0.002 0
+#up 36 1 1
+#dns 36 1 0
+#updn 36 1 0
+LessUpDn 36 1
+#Ntot_per_site 36 1 1
+flutacao_carga 36 1 -4 0 0.002 0
+#sz 36 1 0.5
+flutacao_spin 36 1 -4 0 0.002 0
+Density_Single 36 1 -4 0 0.002 0
+w2_per_site 36 1 -4 0 0.002 0
+wp1_per_site 36 1 -4 0 0.002 1
+wl1_per_site 36 1 -4 0 0.002 0
+w0_per_site 36 1 -4 0 0.002 0
+svNsingle 36 1 -4 0 0.002 0
+#up 37 1 1
+#dns 37 1 0
+#updn 37 1 0
+LessUpDn 37 1
+#Ntot_per_site 37 1 1
+flutacao_carga 37 1 -4 0 0.002 0
+#sz 37 1 0.5
+flutacao_spin 37 1 -4 0 0.002 0
+Density_Single 37 1 -4 0 0.002 0
+w2_per_site 37 1 -4 0 0.002 0
+wp1_per_site 37 1 -4 0 0.002 1
+wl1_per_site 37 1 -4 0 0.002 0
+w0_per_site 37 1 -4 0 0.002 0
+svNsingle 37 1 -4 0 0.002 0
+#up 38 1 1
+#dns 38 1 0
+#updn 38 1 0
+LessUpDn 38 1
+#Ntot_per_site 38 1 1
+flutacao_carga 38 1 -4 0 0.002 0
+#sz 38 1 0.5
+flutacao_spin 38 1 -4 0 0.002 0
+Density_Single 38 1 -4 0 0.002 0
+w2_per_site 38 1 -4 0 0.002 0
+wp1_per_site 38 1 -4 0 0.002 1
+wl1_per_site 38 1 -4 0 0.002 0
+w0_per_site 38 1 -4 0 0.002 0
+svNsingle 38 1 -4 0 0.002 0
+#up 39 1 1
+#dns 39 1 0
+#updn 39 1 0
+LessUpDn 39 1
+#Ntot_per_site 39 1 1
+flutacao_carga 39 1 -4 0 0.002 0
+#sz 39 1 0.5
+flutacao_spin 39 1 -4 0 0.002 0
+Density_Single 39 1 -4 0 0.002 0
+w2_per_site 39 1 -4 0 0.002 0
+wp1_per_site 39 1 -4 0 0.002 1
+wl1_per_site 39 1 -4 0 0.002 0
+w0_per_site 39 1 -4 0 0.002 0
+svNsingle 39 1 -4 0 0.002 0
+#up 40 1 1
+#dns 40 1 0
+#updn 40 1 0
+LessUpDn 40 1
+#Ntot_per_site 40 1 1
+flutacao_carga 40 1 -4 0 0.002 0
+#sz 40 1 0.5
+flutacao_spin 40 1 -4 0 0.002 0
+Density_Single 40 1 -4 0 0.002 0
+w2_per_site 40 1 -4 0 0.002 0
+wp1_per_site 40 1 -4 0 0.002 1
+wl1_per_site 40 1 -4 0 0.002 0
+w0_per_site 40 1 -4 0 0.002 0
+svNsingle 40 1 -4 0 0.002 0
+#up 41 1 1
+#dns 41 1 0
+#updn 41 1 0
+LessUpDn 41 1
+#Ntot_per_site 41 1 1
+flutacao_carga 41 1 -4 0 0.002 0
+#sz 41 1 0.5
+flutacao_spin 41 1 -4 0 0.002 0
+Density_Single 41 1 -4 0 0.002 0
+w2_per_site 41 1 -4 0 0.002 0
+wp1_per_site 41 1 -4 0 0.002 1
+wl1_per_site 41 1 -4 0 0.002 0
+w0_per_site 41 1 -4 0 0.002 0
+svNsingle 41 1 -4 0 0.002 0
+#up 42 1 1
+#dns 42 1 0
+#updn 42 1 0
+LessUpDn 42 1
+#Ntot_per_site 42 1 1
+flutacao_carga 42 1 -4 0 0.002 0
+#sz 42 1 0.5
+flutacao_spin 42 1 -4 0 0.002 0
+Density_Single 42 1 -4 0 0.002 0
+w2_per_site 42 1 -4 0 0.002 0
+wp1_per_site 42 1 -4 0 0.002 1
+wl1_per_site 42 1 -4 0 0.002 0
+w0_per_site 42 1 -4 0 0.002 0
+svNsingle 42 1 -4 0 0.002 0
+#up 43 1 1
+#dns 43 1 0
+#updn 43 1 0
+LessUpDn 43 1
+#Ntot_per_site 43 1 1
+flutacao_carga 43 1 -4 0 0.002 0
+#sz 43 1 0.5
+flutacao_spin 43 1 -4 0 0.002 0
+Density_Single 43 1 -4 0 0.002 0
+w2_per_site 43 1 -4 0 0.002 0
+wp1_per_site 43 1 -4 0 0.002 1
+wl1_per_site 43 1 -4 0 0.002 0
+w0_per_site 43 1 -4 0 0.002 0
+svNsingle 43 1 -4 0 0.002 0
+#up 44 1 1
+#dns 44 1 0
+#updn 44 1 0
+LessUpDn 44 1
+#Ntot_per_site 44 1 1
+flutacao_carga 44 1 -4 0 0.002 0
+#sz 44 1 0.5
+flutacao_spin 44 1 -4 0 0.002 0
+Density_Single 44 1 -4 0 0.002 0
+w2_per_site 44 1 -4 0 0.002 0
+wp1_per_site 44 1 -4 0 0.002 1
+wl1_per_site 44 1 -4 0 0.002 0
+w0_per_site 44 1 -4 0 0.002 0
+svNsingle 44 1 -4 0 0.002 0
+#up 45 1 1
+#dns 45 1 0
+#updn 45 1 0
+LessUpDn 45 1
+#Ntot_per_site 45 1 1
+flutacao_carga 45 1 -4 0 0.002 0
+#sz 45 1 0.5
+flutacao_spin 45 1 -4 0 0.002 0
+Density_Single 45 1 -4 0 0.002 0
+w2_per_site 45 1 -4 0 0.002 0
+wp1_per_site 45 1 -4 0 0.002 1
+wl1_per_site 45 1 -4 0 0.002 0
+w0_per_site 45 1 -4 0 0.002 0
+svNsingle 45 1 -4 0 0.002 0
+#up 46 1 1
+#dns 46 1 0
+#updn 46 1 0
+LessUpDn 46 1
+#Ntot_per_site 46 1 1
+flutacao_carga 46 1 -4 0 0.002 0
+#sz 46 1 0.5
+flutacao_spin 46 1 -4 0 0.002 0
+Density_Single 46 1 -4 0 0.002 0
+w2_per_site 46 1 -4 0 0.002 0
+wp1_per_site 46 1 -4 0 0.002 1
+wl1_per_site 46 1 -4 0 0.002 0
+w0_per_site 46 1 -4 0 0.002 0
+svNsingle 46 1 -4 0 0.002 0
+#up 47 1 1
+#dns 47 1 0
+#updn 47 1 0
+LessUpDn 47 1
+#Ntot_per_site 47 1 1
+flutacao_carga 47 1 -4 0 0.002 0
+#sz 47 1 0.5
+flutacao_spin 47 1 -4 0 0.002 0
+Density_Single 47 1 -4 0 0.002 0
+w2_per_site 47 1 -4 0 0.002 0
+wp1_per_site 47 1 -4 0 0.002 1
+wl1_per_site 47 1 -4 0 0.002 0
+w0_per_site 47 1 -4 0 0.002 0
+svNsingle 47 1 -4 0 0.002 0
+#up 48 1 1
+#dns 48 1 0
+#updn 48 1 0
+LessUpDn 48 1
+#Ntot_per_site 48 1 1
+flutacao_carga 48 1 -4 0 0.002 0
+#sz 48 1 0.5
+flutacao_spin 48 1 -4 0 0.002 0
+Density_Single 48 1 -4 0 0.002 0
+w2_per_site 48 1 -4 0 0.002 0
+wp1_per_site 48 1 -4 0 0.002 1
+wl1_per_site 48 1 -4 0 0.002 0
+w0_per_site 48 1 -4 0 0.002 0
+svNsingle 48 1 -4 0 0.002 0
+#up 49 1 1
+#dns 49 1 0
+#updn 49 1 0
+LessUpDn 49 1
+#Ntot_per_site 49 1 1
+flutacao_carga 49 1 -4 0 0.002 0
+#sz 49 1 0.5
+flutacao_spin 49 1 -4 0 0.002 0
+Density_Single 49 1 -4 0 0.002 0
+w2_per_site 49 1 -4 0 0.002 0
+wp1_per_site 49 1 -4 0 0.002 1
+wl1_per_site 49 1 -4 0 0.002 0
+w0_per_site 49 1 -4 0 0.002 0
+svNsingle 49 1 -4 0 0.002 0
+#up 50 1 1
+#dns 50 1 0
+#updn 50 1 0
+LessUpDn 50 1
+#Ntot_per_site 50 1 1
+flutacao_carga 50 1 -4 0 0.002 0
+#sz 50 1 0.5
+flutacao_spin 50 1 -4 0 0.002 0
+Density_Single 50 1 -4 0 0.002 0
+w2_per_site 50 1 -4 0 0.002 0
+wp1_per_site 50 1 -4 0 0.002 1
+wl1_per_site 50 1 -4 0 0.002 0
+w0_per_site 50 1 -4 0 0.002 0
+svNsingle 50 1 -4 0 0.002 0
+Single_entro_central 1 -4 0 0.002 0
+#up 51 1 1
+#dns 51 1 0
+#updn 51 1 0
+LessUpDn 51 1
+#Ntot_per_site 51 1 1
+flutacao_carga 51 1 -4 0 0.002 0
+#sz 51 1 0.5
+flutacao_spin 51 1 -4 0 0.002 0
+Density_Single 51 1 -4 0 0.002 0
+w2_per_site 51 1 -4 0 0.002 0
+wp1_per_site 51 1 -4 0 0.002 1
+wl1_per_site 51 1 -4 0 0.002 0
+w0_per_site 51 1 -4 0 0.002 0
+svNsingle 51 1 -4 0 0.002 0
+#up 52 1 1
+#dns 52 1 0
+#updn 52 1 0
+LessUpDn 52 1
+#Ntot_per_site 52 1 1
+flutacao_carga 52 1 -4 0 0.002 0
+#sz 52 1 0.5
+flutacao_spin 52 1 -4 0 0.002 0
+Density_Single 52 1 -4 0 0.002 0
+w2_per_site 52 1 -4 0 0.002 0
+wp1_per_site 52 1 -4 0 0.002 1
+wl1_per_site 52 1 -4 0 0.002 0
+w0_per_site 52 1 -4 0 0.002 0
+svNsingle 52 1 -4 0 0.002 0
+#up 53 1 1
+#dns 53 1 0
+#updn 53 1 0
+LessUpDn 53 1
+#Ntot_per_site 53 1 1
+flutacao_carga 53 1 -4 0 0.002 0
+#sz 53 1 0.5
+flutacao_spin 53 1 -4 0 0.002 0
+Density_Single 53 1 -4 0 0.002 0
+w2_per_site 53 1 -4 0 0.002 0
+wp1_per_site 53 1 -4 0 0.002 1
+wl1_per_site 53 1 -4 0 0.002 0
+w0_per_site 53 1 -4 0 0.002 0
+svNsingle 53 1 -4 0 0.002 0
+#up 54 1 1
+#dns 54 1 0
+#updn 54 1 0
+LessUpDn 54 1
+#Ntot_per_site 54 1 1
+flutacao_carga 54 1 -4 0 0.002 0
+#sz 54 1 0.5
+flutacao_spin 54 1 -4 0 0.002 0
+Density_Single 54 1 -4 0 0.002 0
+w2_per_site 54 1 -4 0 0.002 0
+wp1_per_site 54 1 -4 0 0.002 1
+wl1_per_site 54 1 -4 0 0.002 0
+w0_per_site 54 1 -4 0 0.002 0
+svNsingle 54 1 -4 0 0.002 0
+#up 55 1 1
+#dns 55 1 0
+#updn 55 1 0
+LessUpDn 55 1
+#Ntot_per_site 55 1 1
+flutacao_carga 55 1 -4 0 0.002 0
+#sz 55 1 0.5
+flutacao_spin 55 1 -4 0 0.002 0
+Density_Single 55 1 -4 0 0.002 0
+w2_per_site 55 1 -4 0 0.002 0
+wp1_per_site 55 1 -4 0 0.002 1
+wl1_per_site 55 1 -4 0 0.002 0
+w0_per_site 55 1 -4 0 0.002 0
+svNsingle 55 1 -4 0 0.002 0
+#up 56 1 1
+#dns 56 1 0
+#updn 56 1 0
+LessUpDn 56 1
+#Ntot_per_site 56 1 1
+flutacao_carga 56 1 -4 0 0.002 0
+#sz 56 1 0.5
+flutacao_spin 56 1 -4 0 0.002 0
+Density_Single 56 1 -4 0 0.002 0
+w2_per_site 56 1 -4 0 0.002 0
+wp1_per_site 56 1 -4 0 0.002 1
+wl1_per_site 56 1 -4 0 0.002 0
+w0_per_site 56 1 -4 0 0.002 0
+svNsingle 56 1 -4 0 0.002 0
+#up 57 1 1
+#dns 57 1 0
+#updn 57 1 0
+LessUpDn 57 1
+#Ntot_per_site 57 1 1
+flutacao_carga 57 1 -4 0 0.002 0
+#sz 57 1 0.5
+flutacao_spin 57 1 -4 0 0.002 0
+Density_Single 57 1 -4 0 0.002 0
+w2_per_site 57 1 -4 0 0.002 0
+wp1_per_site 57 1 -4 0 0.002 1
+wl1_per_site 57 1 -4 0 0.002 0
+w0_per_site 57 1 -4 0 0.002 0
+svNsingle 57 1 -4 0 0.002 0
+#up 58 1 1
+#dns 58 1 0
+#updn 58 1 0
+LessUpDn 58 1
+#Ntot_per_site 58 1 1
+flutacao_carga 58 1 -4 0 0.002 0
+#sz 58 1 0.5
+flutacao_spin 58 1 -4 0 0.002 0
+Density_Single 58 1 -4 0 0.002 0
+w2_per_site 58 1 -4 0 0.002 0
+wp1_per_site 58 1 -4 0 0.002 1
+wl1_per_site 58 1 -4 0 0.002 0
+w0_per_site 58 1 -4 0 0.002 0
+svNsingle 58 1 -4 0 0.002 0
+#up 59 1 1
+#dns 59 1 0
+#updn 59 1 0
+LessUpDn 59 1
+#Ntot_per_site 59 1 1
+flutacao_carga 59 1 -4 0 0.002 0
+#sz 59 1 0.5
+flutacao_spin 59 1 -4 0 0.002 0
+Density_Single 59 1 -4 0 0.002 0
+w2_per_site 59 1 -4 0 0.002 0
+wp1_per_site 59 1 -4 0 0.002 1
+wl1_per_site 59 1 -4 0 0.002 0
+w0_per_site 59 1 -4 0 0.002 0
+svNsingle 59 1 -4 0 0.002 0
+#up 60 1 1
+#dns 60 1 0
+#updn 60 1 0
+LessUpDn 60 1
+#Ntot_per_site 60 1 1
+flutacao_carga 60 1 -4 0 0.002 0
+#sz 60 1 0.5
+flutacao_spin 60 1 -4 0 0.002 0
+Density_Single 60 1 -4 0 0.002 0
+w2_per_site 60 1 -4 0 0.002 0
+wp1_per_site 60 1 -4 0 0.002 1
+wl1_per_site 60 1 -4 0 0.002 0
+w0_per_site 60 1 -4 0 0.002 0
+svNsingle 60 1 -4 0 0.002 0
+#up 61 1 1
+#dns 61 1 0
+#updn 61 1 0
+LessUpDn 61 1
+#Ntot_per_site 61 1 1
+flutacao_carga 61 1 -4 0 0.002 0
+#sz 61 1 0.5
+flutacao_spin 61 1 -4 0 0.002 0
+Density_Single 61 1 -4 0 0.002 0
+w2_per_site 61 1 -4 0 0.002 0
+wp1_per_site 61 1 -4 0 0.002 1
+wl1_per_site 61 1 -4 0 0.002 0
+w0_per_site 61 1 -4 0 0.002 0
+svNsingle 61 1 -4 0 0.002 0
+#up 62 1 1
+#dns 62 1 0
+#updn 62 1 0
+LessUpDn 62 1
+#Ntot_per_site 62 1 1
+flutacao_carga 62 1 -4 0 0.002 0
+#sz 62 1 0.5
+flutacao_spin 62 1 -4 0 0.002 0
+Density_Single 62 1 -4 0 0.002 0
+w2_per_site 62 1 -4 0 0.002 0
+wp1_per_site 62 1 -4 0 0.002 1
+wl1_per_site 62 1 -4 0 0.002 0
+w0_per_site 62 1 -4 0 0.002 0
+svNsingle 62 1 -4 0 0.002 0
+#up 63 1 1
+#dns 63 1 0
+#updn 63 1 0
+LessUpDn 63 1
+#Ntot_per_site 63 1 1
+flutacao_carga 63 1 -4 0 0.002 0
+#sz 63 1 0.5
+flutacao_spin 63 1 -4 0 0.002 0
+Density_Single 63 1 -4 0 0.002 0
+w2_per_site 63 1 -4 0 0.002 0
+wp1_per_site 63 1 -4 0 0.002 1
+wl1_per_site 63 1 -4 0 0.002 0
+w0_per_site 63 1 -4 0 0.002 0
+svNsingle 63 1 -4 0 0.002 0
+#up 64 1 1
+#dns 64 1 0
+#updn 64 1 0
+LessUpDn 64 1
+#Ntot_per_site 64 1 1
+flutacao_carga 64 1 -4 0 0.002 0
+#sz 64 1 0.5
+flutacao_spin 64 1 -4 0 0.002 0
+Density_Single 64 1 -4 0 0.002 0
+w2_per_site 64 1 -4 0 0.002 0
+wp1_per_site 64 1 -4 0 0.002 1
+wl1_per_site 64 1 -4 0 0.002 0
+w0_per_site 64 1 -4 0 0.002 0
+svNsingle 64 1 -4 0 0.002 0
+#up 65 1 1
+#dns 65 1 0
+#updn 65 1 0
+LessUpDn 65 1
+#Ntot_per_site 65 1 1
+flutacao_carga 65 1 -4 0 0.002 0
+#sz 65 1 0.5
+flutacao_spin 65 1 -4 0 0.002 0
+Density_Single 65 1 -4 0 0.002 0
+w2_per_site 65 1 -4 0 0.002 0
+wp1_per_site 65 1 -4 0 0.002 1
+wl1_per_site 65 1 -4 0 0.002 0
+w0_per_site 65 1 -4 0 0.002 0
+svNsingle 65 1 -4 0 0.002 0
+#up 66 1 1
+#dns 66 1 0
+#updn 66 1 0
+LessUpDn 66 1
+#Ntot_per_site 66 1 1
+flutacao_carga 66 1 -4 0 0.002 0
+#sz 66 1 0.5
+flutacao_spin 66 1 -4 0 0.002 0
+Density_Single 66 1 -4 0 0.002 0
+w2_per_site 66 1 -4 0 0.002 0
+wp1_per_site 66 1 -4 0 0.002 1
+wl1_per_site 66 1 -4 0 0.002 0
+w0_per_site 66 1 -4 0 0.002 0
+svNsingle 66 1 -4 0 0.002 0
+#up 67 1 1
+#dns 67 1 0
+#updn 67 1 0
+LessUpDn 67 1
+#Ntot_per_site 67 1 1
+flutacao_carga 67 1 -4 0 0.002 0
+#sz 67 1 0.5
+flutacao_spin 67 1 -4 0 0.002 0
+Density_Single 67 1 -4 0 0.002 0
+w2_per_site 67 1 -4 0 0.002 0
+wp1_per_site 67 1 -4 0 0.002 1
+wl1_per_site 67 1 -4 0 0.002 0
+w0_per_site 67 1 -4 0 0.002 0
+svNsingle 67 1 -4 0 0.002 0
+#up 68 1 1
+#dns 68 1 0
+#updn 68 1 0
+LessUpDn 68 1
+#Ntot_per_site 68 1 1
+flutacao_carga 68 1 -4 0 0.002 0
+#sz 68 1 0.5
+flutacao_spin 68 1 -4 0 0.002 0
+Density_Single 68 1 -4 0 0.002 0
+w2_per_site 68 1 -4 0 0.002 0
+wp1_per_site 68 1 -4 0 0.002 1
+wl1_per_site 68 1 -4 0 0.002 0
+w0_per_site 68 1 -4 0 0.002 0
+svNsingle 68 1 -4 0 0.002 0
+#up 69 1 1
+#dns 69 1 0
+#updn 69 1 0
+LessUpDn 69 1
+#Ntot_per_site 69 1 1
+flutacao_carga 69 1 -4 0 0.002 0
+#sz 69 1 0.5
+flutacao_spin 69 1 -4 0 0.002 0
+Density_Single 69 1 -4 0 0.002 0
+w2_per_site 69 1 -4 0 0.002 0
+wp1_per_site 69 1 -4 0 0.002 1
+wl1_per_site 69 1 -4 0 0.002 0
+w0_per_site 69 1 -4 0 0.002 0
+svNsingle 69 1 -4 0 0.002 0
+#up 70 1 1
+#dns 70 1 0
+#updn 70 1 0
+LessUpDn 70 1
+#Ntot_per_site 70 1 1
+flutacao_carga 70 1 -4 0 0.002 0
+#sz 70 1 0.5
+flutacao_spin 70 1 -4 0 0.002 0
+Density_Single 70 1 -4 0 0.002 0
+w2_per_site 70 1 -4 0 0.002 0
+wp1_per_site 70 1 -4 0 0.002 1
+wl1_per_site 70 1 -4 0 0.002 0
+w0_per_site 70 1 -4 0 0.002 0
+svNsingle 70 1 -4 0 0.002 0
+#up 71 1 1
+#dns 71 1 0
+#updn 71 1 0
+LessUpDn 71 1
+#Ntot_per_site 71 1 1
+flutacao_carga 71 1 -4 0 0.002 0
+#sz 71 1 0.5
+flutacao_spin 71 1 -4 0 0.002 0
+Density_Single 71 1 -4 0 0.002 0
+w2_per_site 71 1 -4 0 0.002 0
+wp1_per_site 71 1 -4 0 0.002 1
+wl1_per_site 71 1 -4 0 0.002 0
+w0_per_site 71 1 -4 0 0.002 0
+svNsingle 71 1 -4 0 0.002 0
+#up 72 1 1
+#dns 72 1 0
+#updn 72 1 0
+LessUpDn 72 1
+#Ntot_per_site 72 1 1
+flutacao_carga 72 1 -4 0 0.002 0
+#sz 72 1 0.5
+flutacao_spin 72 1 -4 0 0.002 0
+Density_Single 72 1 -4 0 0.002 0
+w2_per_site 72 1 -4 0 0.002 0
+wp1_per_site 72 1 -4 0 0.002 1
+wl1_per_site 72 1 -4 0 0.002 0
+w0_per_site 72 1 -4 0 0.002 0
+svNsingle 72 1 -4 0 0.002 0
+#up 73 1 1
+#dns 73 1 0
+#updn 73 1 0
+LessUpDn 73 1
+#Ntot_per_site 73 1 1
+flutacao_carga 73 1 -4 0 0.002 0
+#sz 73 1 0.5
+flutacao_spin 73 1 -4 0 0.002 0
+Density_Single 73 1 -4 0 0.002 0
+w2_per_site 73 1 -4 0 0.002 0
+wp1_per_site 73 1 -4 0 0.002 1
+wl1_per_site 73 1 -4 0 0.002 0
+w0_per_site 73 1 -4 0 0.002 0
+svNsingle 73 1 -4 0 0.002 0
+#up 74 1 1
+#dns 74 1 0
+#updn 74 1 0
+LessUpDn 74 1
+#Ntot_per_site 74 1 1
+flutacao_carga 74 1 -4 0 0.002 0
+#sz 74 1 0.5
+flutacao_spin 74 1 -4 0 0.002 0
+Density_Single 74 1 -4 0 0.002 0
+w2_per_site 74 1 -4 0 0.002 0
+wp1_per_site 74 1 -4 0 0.002 1
+wl1_per_site 74 1 -4 0 0.002 0
+w0_per_site 74 1 -4 0 0.002 0
+svNsingle 74 1 -4 0 0.002 0
+#up 75 1 1
+#dns 75 1 0
+#updn 75 1 0
+LessUpDn 75 1
+#Ntot_per_site 75 1 1
+flutacao_carga 75 1 -4 0 0.002 0
+#sz 75 1 0.5
+flutacao_spin 75 1 -4 0 0.002 0
+Density_Single 75 1 -4 0 0.002 0
+w2_per_site 75 1 -4 0 0.002 0
+wp1_per_site 75 1 -4 0 0.002 1
+wl1_per_site 75 1 -4 0 0.002 0
+w0_per_site 75 1 -4 0 0.002 0
+svNsingle 75 1 -4 0 0.002 0
+#up 76 1 1
+#dns 76 1 0
+#updn 76 1 0
+LessUpDn 76 1
+#Ntot_per_site 76 1 1
+flutacao_carga 76 1 -4 0 0.002 0
+#sz 76 1 0.5
+flutacao_spin 76 1 -4 0 0.002 0
+Density_Single 76 1 -4 0 0.002 0
+w2_per_site 76 1 -4 0 0.002 0
+wp1_per_site 76 1 -4 0 0.002 1
+wl1_per_site 76 1 -4 0 0.002 0
+w0_per_site 76 1 -4 0 0.002 0
+svNsingle 76 1 -4 0 0.002 0
+#up 77 1 1
+#dns 77 1 0
+#updn 77 1 0
+LessUpDn 77 1
+#Ntot_per_site 77 1 1
+flutacao_carga 77 1 -4 0 0.002 0
+#sz 77 1 0.5
+flutacao_spin 77 1 -4 0 0.002 0
+Density_Single 77 1 -4 0 0.002 0
+w2_per_site 77 1 -4 0 0.002 0
+wp1_per_site 77 1 -4 0 0.002 1
+wl1_per_site 77 1 -4 0 0.002 0
+w0_per_site 77 1 -4 0 0.002 0
+svNsingle 77 1 -4 0 0.002 0
+#up 78 1 1
+#dns 78 1 0
+#updn 78 1 0
+LessUpDn 78 1
+#Ntot_per_site 78 1 1
+flutacao_carga 78 1 -4 0 0.002 0
+#sz 78 1 0.5
+flutacao_spin 78 1 -4 0 0.002 0
+Density_Single 78 1 -4 0 0.002 0
+w2_per_site 78 1 -4 0 0.002 0
+wp1_per_site 78 1 -4 0 0.002 1
+wl1_per_site 78 1 -4 0 0.002 0
+w0_per_site 78 1 -4 0 0.002 0
+svNsingle 78 1 -4 0 0.002 0
+#up 79 1 1
+#dns 79 1 0
+#updn 79 1 0
+LessUpDn 79 1
+#Ntot_per_site 79 1 1
+flutacao_carga 79 1 -4 0 0.002 0
+#sz 79 1 0.5
+flutacao_spin 79 1 -4 0 0.002 0
+Density_Single 79 1 -4 0 0.002 0
+w2_per_site 79 1 -4 0 0.002 0
+wp1_per_site 79 1 -4 0 0.002 1
+wl1_per_site 79 1 -4 0 0.002 0
+w0_per_site 79 1 -4 0 0.002 0
+svNsingle 79 1 -4 0 0.002 0
+#up 80 1 1
+#dns 80 1 0
+#updn 80 1 0
+LessUpDn 80 1
+#Ntot_per_site 80 1 1
+flutacao_carga 80 1 -4 0 0.002 0
+#sz 80 1 0.5
+flutacao_spin 80 1 -4 0 0.002 0
+Density_Single 80 1 -4 0 0.002 0
+w2_per_site 80 1 -4 0 0.002 0
+wp1_per_site 80 1 -4 0 0.002 1
+wl1_per_site 80 1 -4 0 0.002 0
+w0_per_site 80 1 -4 0 0.002 0
+svNsingle 80 1 -4 0 0.002 0
+#up 81 1 1
+#dns 81 1 0
+#updn 81 1 0
+LessUpDn 81 1
+#Ntot_per_site 81 1 1
+flutacao_carga 81 1 -4 0 0.002 0
+#sz 81 1 0.5
+flutacao_spin 81 1 -4 0 0.002 0
+Density_Single 81 1 -4 0 0.002 0
+w2_per_site 81 1 -4 0 0.002 0
+wp1_per_site 81 1 -4 0 0.002 1
+wl1_per_site 81 1 -4 0 0.002 0
+w0_per_site 81 1 -4 0 0.002 0
+svNsingle 81 1 -4 0 0.002 0
+#up 82 1 1
+#dns 82 1 0
+#updn 82 1 0
+LessUpDn 82 1
+#Ntot_per_site 82 1 1
+flutacao_carga 82 1 -4 0 0.002 0
+#sz 82 1 0.5
+flutacao_spin 82 1 -4 0 0.002 0
+Density_Single 82 1 -4 0 0.002 0
+w2_per_site 82 1 -4 0 0.002 0
+wp1_per_site 82 1 -4 0 0.002 1
+wl1_per_site 82 1 -4 0 0.002 0
+w0_per_site 82 1 -4 0 0.002 0
+svNsingle 82 1 -4 0 0.002 0
+#up 83 1 1
+#dns 83 1 0
+#updn 83 1 0
+LessUpDn 83 1
+#Ntot_per_site 83 1 1
+flutacao_carga 83 1 -4 0 0.002 0
+#sz 83 1 0.5
+flutacao_spin 83 1 -4 0 0.002 0
+Density_Single 83 1 -4 0 0.002 0
+w2_per_site 83 1 -4 0 0.002 0
+wp1_per_site 83 1 -4 0 0.002 1
+wl1_per_site 83 1 -4 0 0.002 0
+w0_per_site 83 1 -4 0 0.002 0
+svNsingle 83 1 -4 0 0.002 0
+#up 84 1 1
+#dns 84 1 0
+#updn 84 1 0
+LessUpDn 84 1
+#Ntot_per_site 84 1 1
+flutacao_carga 84 1 -4 0 0.002 0
+#sz 84 1 0.5
+flutacao_spin 84 1 -4 0 0.002 0
+Density_Single 84 1 -4 0 0.002 0
+w2_per_site 84 1 -4 0 0.002 0
+wp1_per_site 84 1 -4 0 0.002 1
+wl1_per_site 84 1 -4 0 0.002 0
+w0_per_site 84 1 -4 0 0.002 0
+svNsingle 84 1 -4 0 0.002 0
+#up 85 1 1
+#dns 85 1 0
+#updn 85 1 0
+LessUpDn 85 1
+#Ntot_per_site 85 1 1
+flutacao_carga 85 1 -4 0 0.002 0
+#sz 85 1 0.5
+flutacao_spin 85 1 -4 0 0.002 0
+Density_Single 85 1 -4 0 0.002 0
+w2_per_site 85 1 -4 0 0.002 0
+wp1_per_site 85 1 -4 0 0.002 1
+wl1_per_site 85 1 -4 0 0.002 0
+w0_per_site 85 1 -4 0 0.002 0
+svNsingle 85 1 -4 0 0.002 0
+#up 86 1 1
+#dns 86 1 0
+#updn 86 1 0
+LessUpDn 86 1
+#Ntot_per_site 86 1 1
+flutacao_carga 86 1 -4 0 0.002 0
+#sz 86 1 0.5
+flutacao_spin 86 1 -4 0 0.002 0
+Density_Single 86 1 -4 0 0.002 0
+w2_per_site 86 1 -4 0 0.002 0
+wp1_per_site 86 1 -4 0 0.002 1
+wl1_per_site 86 1 -4 0 0.002 0
+w0_per_site 86 1 -4 0 0.002 0
+svNsingle 86 1 -4 0 0.002 0
+#up 87 1 1
+#dns 87 1 0
+#updn 87 1 0
+LessUpDn 87 1
+#Ntot_per_site 87 1 1
+flutacao_carga 87 1 -4 0 0.002 0
+#sz 87 1 0.5
+flutacao_spin 87 1 -4 0 0.002 0
+Density_Single 87 1 -4 0 0.002 0
+w2_per_site 87 1 -4 0 0.002 0
+wp1_per_site 87 1 -4 0 0.002 1
+wl1_per_site 87 1 -4 0 0.002 0
+w0_per_site 87 1 -4 0 0.002 0
+svNsingle 87 1 -4 0 0.002 0
+#up 88 1 1
+#dns 88 1 0
+#updn 88 1 0
+LessUpDn 88 1
+#Ntot_per_site 88 1 1
+flutacao_carga 88 1 -4 0 0.002 1.68126e-08
+#sz 88 1 0.5
+flutacao_spin 88 1 -4 0 0.002 4.20316e-09
+Density_Single 88 1 -4 0 0.002 4.58457e-07
+w2_per_site 88 1 -4 0 0.002 0
+wp1_per_site 88 1 -4 0 0.002 1
+wl1_per_site 88 1 -4 0 0.002 0
+w0_per_site 88 1 -4 0 0.002 1.68126e-08
+svNsingle 88 1 -4 0 0.002 4.58457e-07
+#up 89 1 1
+#dns 89 1 0
+#updn 89 1 0
+LessUpDn 89 1
+#Ntot_per_site 89 1 1
+flutacao_carga 89 1 -4 0 0.002 1.76165e-07
+#sz 89 1 0.5
+flutacao_spin 89 1 -4 0 0.002 4.40412e-08
+Density_Single 89 1 -4 0 0.002 4.20669e-06
+w2_per_site 89 1 -4 0 0.002 0
+wp1_per_site 89 1 -4 0 0.002 1
+wl1_per_site 89 1 -4 0 0.002 0
+w0_per_site 89 1 -4 0 0.002 1.76165e-07
+svNsingle 89 1 -4 0 0.002 4.20669e-06
+#up 90 1 0.999998
+#dns 90 1 0
+#updn 90 1 0
+LessUpDn 90 0.999998
+#Ntot_per_site 90 1 0.999998
+flutacao_carga 90 1 -4 0 0.002 1.66409e-06
+#sz 90 1 0.499999
+flutacao_spin 90 1 -4 0 0.002 4.16021e-07
+Density_Single 90 1 -4 0 0.002 3.4346e-05
+w2_per_site 90 1 -4 0 0.002 0
+wp1_per_site 90 1 -4 0 0.002 0.999998
+wl1_per_site 90 1 -4 0 0.002 0
+w0_per_site 90 1 -4 0 0.002 1.66409e-06
+svNsingle 90 1 -4 0 0.002 3.4346e-05
+#up 91 1 0.999986
+#dns 91 1 0
+#updn 91 1 0
+LessUpDn 91 0.999986
+#Ntot_per_site 91 1 0.999986
+flutacao_carga 91 1 -4 0 0.002 1.37734e-05
+#sz 91 1 0.499993
+flutacao_spin 91 1 -4 0 0.002 3.44336e-06
+Density_Single 91 1 -4 0 0.002 0.000242284
+w2_per_site 91 1 -4 0 0.002 0
+wp1_per_site 91 1 -4 0 0.002 0.999986
+wl1_per_site 91 1 -4 0 0.002 0
+w0_per_site 91 1 -4 0 0.002 1.37736e-05
+svNsingle 91 1 -4 0 0.002 0.000242284
+#up 92 1 0.9999
+#dns 92 1 0
+#updn 92 1 0
+LessUpDn 92 0.9999
+#Ntot_per_site 92 1 0.9999
+flutacao_carga 92 1 -4 0 0.002 0.00010001
+#sz 92 1 0.49995
+flutacao_spin 92 1 -4 0 0.002 2.50025e-05
+Density_Single 92 1 -4 0 0.002 0.0014733
+w2_per_site 92 1 -4 0 0.002 0
+wp1_per_site 92 1 -4 0 0.002 0.9999
+wl1_per_site 92 1 -4 0 0.002 0
+w0_per_site 92 1 -4 0 0.002 0.00010002
+svNsingle 92 1 -4 0 0.002 0.0014733
+#up 93 1 0.999371
+#dns 93 1 0
+#updn 93 1 0
+LessUpDn 93 0.999371
+#Ntot_per_site 93 1 0.999371
+flutacao_carga 93 1 -4 0 0.002 0.000628359
+#sz 93 1 0.499686
+flutacao_spin 93 1 -4 0 0.002 0.00015709
+Density_Single 93 1 -4 0 0.002 0.00759375
+w2_per_site 93 1 -4 0 0.002 0
+wp1_per_site 93 1 -4 0 0.002 0.999371
+wl1_per_site 93 1 -4 0 0.002 0
+w0_per_site 93 1 -4 0 0.002 0.000628754
+svNsingle 93 1 -4 0 0.002 0.00759375
+#up 94 1 0.996641
+#dns 94 1 0
+#updn 94 1 0
+LessUpDn 94 0.996641
+#Ntot_per_site 94 1 0.996641
+flutacao_carga 94 1 -4 0 0.002 0.00334816
+#sz 94 1 0.49832
+flutacao_spin 94 1 -4 0 0.002 0.000837039
+Density_Single 94 1 -4 0 0.002 0.0324449
+w2_per_site 94 1 -4 0 0.002 0
+wp1_per_site 94 1 -4 0 0.002 0.996641
+wl1_per_site 94 1 -4 0 0.002 0
+w0_per_site 94 1 -4 0 0.002 0.00335944
+svNsingle 94 1 -4 0 0.002 0.0324449
+#up 95 1 0.985104
+#dns 95 1 0
+#updn 95 1 0
+LessUpDn 95 0.985104
+#Ntot_per_site 95 1 0.985104
+flutacao_carga 95 1 -4 0 0.002 0.0146741
+#sz 95 1 0.492552
+flutacao_spin 95 1 -4 0 0.002 0.00366852
+Density_Single 95 1 -4 0 0.002 0.111732
+w2_per_site 95 1 -4 0 0.002 0
+wp1_per_site 95 1 -4 0 0.002 0.985104
+wl1_per_site 95 1 -4 0 0.002 0
+w0_per_site 95 1 -4 0 0.002 0.014896
+svNsingle 95 1 -4 0 0.002 0.111732
+#up 96 1 0.946934
+#dns 96 1 0
+#updn 96 1 0
+LessUpDn 96 0.946934
+#Ntot_per_site 96 1 0.946934
+flutacao_carga 96 1 -4 0 0.002 0.05025
+#sz 96 1 0.473467
+flutacao_spin 96 1 -4 0 0.002 0.0125625
+Density_Single 96 1 -4 0 0.002 0.299281
+w2_per_site 96 1 -4 0 0.002 0
+wp1_per_site 96 1 -4 0 0.002 0.946934
+wl1_per_site 96 1 -4 0 0.002 0
+w0_per_site 96 1 -4 0 0.002 0.053066
+svNsingle 96 1 -4 0 0.002 0.299281
+#up 97 1 0.855086
+#dns 97 1 0
+#updn 97 1 0
+LessUpDn 97 0.855086
+#Ntot_per_site 97 1 0.855086
+flutacao_carga 97 1 -4 0 0.002 0.123914
+#sz 97 1 0.427543
+flutacao_spin 97 1 -4 0 0.002 0.0309785
+Density_Single 97 1 -4 0 0.002 0.596965
+w2_per_site 97 1 -4 0 0.002 0
+wp1_per_site 97 1 -4 0 0.002 0.855086
+wl1_per_site 97 1 -4 0 0.002 0
+w0_per_site 97 1 -4 0 0.002 0.144914
+svNsingle 97 1 -4 0 0.002 0.596965
+#up 98 1 0.718719
+#dns 98 1 0
+#updn 98 1 0
+LessUpDn 98 0.718719
+#Ntot_per_site 98 1 0.718719
+flutacao_carga 98 1 -4 0 0.002 0.202162
+#sz 98 1 0.359359
+flutacao_spin 98 1 -4 0 0.002 0.0505405
+Density_Single 98 1 -4 0 0.002 0.857191
+w2_per_site 98 1 -4 0 0.002 0
+wp1_per_site 98 1 -4 0 0.002 0.718719
+wl1_per_site 98 1 -4 0 0.002 0
+w0_per_site 98 1 -4 0 0.002 0.281281
+svNsingle 98 1 -4 0 0.002 0.857191
+#up 99 1 0.664232
+#dns 99 1 0
+#updn 99 1 0
+LessUpDn 99 0.664232
+#Ntot_per_site 99 1 0.664232
+flutacao_carga 99 1 -4 0 0.002 0.223028
+#sz 99 1 0.332116
+flutacao_spin 99 1 -4 0 0.002 0.055757
+Density_Single 99 1 -4 0 0.002 0.920711
+w2_per_site 99 1 -4 0 0.002 0
+wp1_per_site 99 1 -4 0 0.002 0.664232
+wl1_per_site 99 1 -4 0 0.002 0
+w0_per_site 99 1 -4 0 0.002 0.335768
+svNsingle 99 1 -4 0 0.002 0.920711
+#up 100 1 0.834029
+#dns 100 1 0
+#updn 100 1 0
+LessUpDn 100 0.834029
+#Ntot_per_site 100 1 0.834029
+flutacao_carga 100 1 -4 0 0.002 0.138425
+#sz 100 1 0.417014
+flutacao_spin 100 1 -4 0 0.002 0.0346062
+Density_Single 100 1 -4 0 0.002 0.648405
+w2_per_site 100 1 -4 0 0.002 0
+wp1_per_site 100 1 -4 0 0.002 0.834029
+wl1_per_site 100 1 -4 0 0.002 0
+w0_per_site 100 1 -4 0 0.002 0.165971
+svNsingle 100 1 -4 0 0.002 0.648405
